@@ -30,3 +30,6 @@ dependencyResolutionManagement {
 include(":androidApp")
 include(":sharedLogic")
 include(":sharedUI")
+include(":core:domain")
+include(":feature:notes:domain")
+include(":feature:notes:data")
