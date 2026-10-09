@@ -36,6 +36,7 @@ kotlin {
             implementation(libs.compose.uiTooling)
         }
         commonMain.dependencies {
+            implementation(project(":core:design-system"))
             implementation(project(":sharedLogic"))
             implementation(libs.compose.runtime)
             implementation(libs.compose.foundation)

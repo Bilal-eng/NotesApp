@@ -1,0 +1,14 @@
+<resources>
+    <string name="theme_app_name">NOTLAR</string>
+    <string name="theme_hero_title">Büyük fikirlere küçük bir alan.</string>
+    <string name="theme_hero_subtitle">Saklamak istediğin düşünceler için sakin bir yer.</string>
+    <string name="theme_note_label">KENDİNE BİR AN AYIR</string>
+    <string name="theme_note_title">Küçük fikirler. Yeni başlangıçlar.</string>
+    <string name="theme_note_body">Bir kitaptan bir cümle, hafta sonu planı, eve dönerken aklına gelen bir düşünce. Büyümesi için ona yer aç.</string>
+    <string name="theme_sample_label">Örnek not · Tema önizlemesi</string>
+    <string name="theme_category_ideas">Fikirler</string>
+    <string name="theme_category_plans">Planlar</string>
+    <string name="theme_category_journal">Günlük</string>
+    <string name="theme_greeting_show">Merhaba de</string>
+    <string name="theme_greeting_hide">Selamlamayı gizle</string>
+</resources>

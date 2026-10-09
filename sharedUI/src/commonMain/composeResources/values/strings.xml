@@ -1,0 +1,14 @@
+<resources>
+    <string name="theme_app_name">NOTES</string>
+    <string name="theme_hero_title">A little space for big ideas.</string>
+    <string name="theme_hero_subtitle">A quiet place for the thoughts you want to keep.</string>
+    <string name="theme_note_label">A MOMENT TO YOURSELF</string>
+    <string name="theme_note_title">Small ideas. New beginnings.</string>
+    <string name="theme_note_body">A line from a book, a weekend plan, a thought on the way home. Give it a place to grow.</string>
+    <string name="theme_sample_label">Sample note · Theme preview</string>
+    <string name="theme_category_ideas">Ideas</string>
+    <string name="theme_category_plans">Plans</string>
+    <string name="theme_category_journal">Journal</string>
+    <string name="theme_greeting_show">Say hello</string>
+    <string name="theme_greeting_hide">Hide greeting</string>
+</resources>

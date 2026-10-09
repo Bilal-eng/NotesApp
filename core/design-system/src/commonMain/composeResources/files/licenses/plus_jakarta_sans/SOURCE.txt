@@ -1,0 +1,18 @@
+Plus Jakarta Sans font assets
+
+Upstream: https://github.com/tokotype/PlusJakartaSans
+Pinned commit: 18d1cd2f7ea10481919d2f05c1f7064b7307fc26
+Commit URL: https://github.com/tokotype/PlusJakartaSans/commit/18d1cd2f7ea10481919d2f05c1f7064b7307fc26
+Upstream files: fonts/ttf/PlusJakartaSans-{Regular,Medium,SemiBold,Bold}.ttf
+
+The font binaries are unmodified. Resource filenames use snake_case for
+Compose Multiplatform resources. OFL.txt and AUTHORS.txt are unmodified
+copies from the same upstream commit.
+
+SHA-256 checksums of bundled font binaries:
+bd6276d4060e3b1ebc45047469e0bb86b08f301ba681cdf1ceb6245ea10478d2  plus_jakarta_sans_regular.ttf
+c77bab757d7402ec6d9341d5f7ddaafb2474e17026792697ba4624c7dc89caf7  plus_jakarta_sans_medium.ttf
+65dbcedb6596a41c30869729eb31cb57d1f5edfe365684314bba8a1994eaa4cb  plus_jakarta_sans_semibold.ttf
+5f5342ef76862b5b5365d1dff1a667629dfa484e388dd602552f647219c3870f  plus_jakarta_sans_bold.ttf
+
+License: SIL Open Font License 1.1; see OFL.txt.
